@@ -13,3 +13,9 @@ Optional items that we used
 - 2x LED lazer, for extra shooting effects
 - 2x Piezo speaker, for buzzing sounds when you shoot, get shot or die
 - 2x RBG LED, to signal your team and current health status
+
+# Build schematics, fritzing
+
+# Future development ideas
+
+# Credits
