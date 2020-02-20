@@ -7,6 +7,7 @@ This is the public repository for my school project of creating lazerguns using 
 - 2x IR blaster or IR LED
 - 4x Pushbutton's
 - Resistors, for the led's, buttons and other components
+- Batteries, kinda essential for mobility
 
 Optional items that we used
 - 2x LED lazer, for extra shooting effects
