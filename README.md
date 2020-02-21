@@ -30,7 +30,7 @@ Optional items that we used
 # How to build
 To build this project you will need the materials listed above. You can connect everything to the pins that are defined in the arduino sketch
 
-'''
+`
 const int buttonPin = 2;    
 const int ledPin =  13;      
 
@@ -44,7 +44,8 @@ int lazer = 9;
 int piezo = 8;
 
 int blue_LED = 13;
-'''
+`
+
 Dont forget to add a reload button which was directly connected to the reset (RST) and grond (GND) pin. 
 
 After connecting all the pins to the arduino you should connect all the modules to ground and VCC we removed one of the powerrails of a breadboard to do this, since the arduino doesn't have enough pins all of the modules. 
