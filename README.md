@@ -23,3 +23,5 @@ Optional items that we used
 # Future development ideas
 
 # Credits
+Credits to the IRremote libary by Shirriff! More info on his libary can be found here
+https://www.arduinolibraries.info/libraries/i-rremote
