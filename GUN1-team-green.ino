@@ -1,3 +1,9 @@
+//Arduino lazer tag setup, Created by Meep3454
+// See github below for instructions on how to build
+// 
+// https://github.com/meep3454/Arduino-Lazer-Tag
+// Please let me know if you liked my project!
+
 
 // TEAM GREEN GUN 1, GEEN LED ON BOARD 
 #include <IRremote.h>
