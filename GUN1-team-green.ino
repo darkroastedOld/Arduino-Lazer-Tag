@@ -122,7 +122,7 @@ void loop() {
       }
 
       
-    irrecv.resume(); // Receive the next value
+    irrecv.resume(); 
   }
   delay(100);
 }
