@@ -1,4 +1,4 @@
-# Arduino-Lazer-Tag
+# Arduino Lazer Tag
 This is the public repository for my school project of creating lazerguns using Arduino's
 ![IMG_0133](https://user-images.githubusercontent.com/61181739/75017129-b52cfb00-548c-11ea-9102-b14d7b8ecdae.JPG)
 
