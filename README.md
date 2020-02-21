@@ -26,8 +26,9 @@ Optional items that we used
 
 # Future development ideas
 - 3d printing the housings to make them more stirdy
+- Use an esp8266 node mcu
   - Use an esp8266 node mcu instead of the arduino nano to make an app and connect your phone to the gun for extra statistics and game/team selection
-  - Use the
+  - Use the node mcu's wifi to connect to local wifi and to a server on a computer or raspberry pi to count live statistics and maybe even live location data to see where your freinds are
 
 # Credits
 Credits to the IRremote libary by Shirriff! More info on his libary can be found here
