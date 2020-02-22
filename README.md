@@ -55,7 +55,7 @@ After connecting all the pins to the arduino you should connect all the modules 
 Next upload the code using the arduino ide. You might get an error saying that you dont have all the required libaries. Then you should download the IRremote libary created by Shirriff at the following link https://www.arduinolibraries.info/libraries/i-rremote
 
 After uploading the code and checking if it all works it is time to connect the battery. 
-⚠️⚠️WARNING ⚠️⚠️ NEVER POWER THE ARDUINO USING BOTH THE BATTERY AND THE USB CALBE! this might overload your arduino and cause it to burn or explode!
+⚠️⚠️WARNING ⚠️⚠️ NEVER POWER THE ARDUINO USING BOTH THE BATTERY AND THE USB CALBE! this will overload your arduino and cause it to burn or explode!
 
 Once your done with it you can enclose it in a housing and go play with it
 
